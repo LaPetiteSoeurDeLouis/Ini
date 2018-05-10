@@ -1,0 +1,68 @@
+// ------------ Jeu.java --------//
+-> Mettre à jour audio et méthodes dépréciées  ----> OK 
+-> Ajouter possibilité de recommencer une partie ----> OK
+-> Séparer dans une classe menu l'écran d'avant lancement de la partie ----> OK
+
+
+//----------nouveautés-----------------//
+	
+Grande nouveauté -> MODE CHALLENGE (1v1)
+	-> Création d'un serveur sauvegardant tous les highscore.
+	-> Mise en place d'une deuxième voiture (du deuxième client, en ligne) 
+
+-> Ajouter des vies 
+-> Créer un launcher 
+
+// ------------ Parametres.java --------//
+-> Design parametres -> OK
+-> Choix de voitures
+	-> Recherche de modèles sur le net ----> OK
+	-> Implémentation menu
+	-> Implémentation IG
+
+-> Choix de textures 
+	-> Recherche de modèles sur le net
+	-> Implémentation menu
+	-> Implémentation IG
+
+-> Compte (?)
+-> Crédits (?)
+
+
+// --------------------------- PARTIE MULTI ----------------------//
+
+// ------------ PARTIE SERVEUR --------//
+-> Inscription ----> OK
+-> Connexion ----> OK 
+-> Check si pseudo déjà pris ----> OK
+-> Check bon mot de passe ----> OK
+-> Crypter mot de passe dans bdd
+
+
+// -------------- PARTIE CLIENT --------//
+-> Inscription -> OK
+-> Connexion -> OK 
+-> Intégration au menu -> OK
+-> Redirection vers menu multi -> OK
+-> Afficher " Bienvenue X, vous êtes Y au classement " en haut de l'appli
+
+// -------------- PARTIE CLASSEE --------//
+-> Implémenter l'ajout d'highscore
+-> Implémenter l'affichage d'highscores dans un coin
+
+// -------------- DUELS --------//
+-> Implémenter les Duels
+
+
+// ------------- HIGHSCORES --------//
+
+-> Implémenter le tableau de highscores 
+
+// ------------- LEADERBOARD --------//
+-> Implémenter le ladderboard
+
+
+
+/* --------------MENU --------------- -*/
+- Etat du serveur - Ping
+- Nombre de joueurs connectés
